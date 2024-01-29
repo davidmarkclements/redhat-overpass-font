@@ -1,0 +1,15 @@
+{
+  "name": "redhat-overpass-font",
+  "version": "1.0.0",
+  "description": "Overpass — an open source web font family",
+  "author": "Red Hat",
+  "contributors": [
+    "Delve Fonts"
+  ],
+  "keywords": [
+    "font",
+    "overpass",
+    "redhat"
+  ],
+  "license": "(LGPL-2.1 AND OFL-1.1)"
+}
